@@ -1,0 +1,7 @@
+[Discover2팀] 3월4일(수)
+# 근태
+- 전원 내근
+# 주요 업무
+- 하병현: (Srv-D) 내용 검사 모듈화(대용량 텍스트 파일 encoding-detection & decoding, Find variants 재작성)
+- 배성학: (sFTP-D) 정책 예약 검사를 AdminAction으로 처리
+- 강민구: (DB-D) 저장 프로시저 검사 방안 분석
